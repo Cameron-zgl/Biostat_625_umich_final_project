@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ### Outputs:
 - **Step 1**:
-    - `merged_clusters_output.csv` - File containing topic keywords for each cluster.
+    - `merged_clusters_output.csv` - File containing topic keywords for each cluster. (There is an example in the repository.)
 - **Step 2**:
     - `combined_annotated_data_updated.csv` - Annotated dataset with depression labels.
     - `classification_report.txt` - Performance metrics (precision, recall, F1-score).
