@@ -111,10 +111,10 @@ Eventually, we could predict the potential depression risk of text data by using
 
 ## Step1: Topic Extraction
 
-Principal Component Analysis (PCA) or t-Distributed Stochastic Neighbor Embedding (t-SNE) was employed to reduce the high-dimensional feature space to two dimensions. A scatter plot was generated to visualize the clustering results, providing an intuitive representation of the group structure within the data. Figure 2 presented a example of cluster for 2020-1.
+Principal Component Analysis (PCA) or t-Distributed Stochastic Neighbor Embedding (t-SNE) was employed to reduce the high-dimensional feature space to two dimensions. A scatter plot was generated to visualize the clustering results, providing an intuitive representation of the group structure within the data. Figure 2 presented a example of cluster for Jan.2020.
 
 
-![Example of Clustering](E:/UMich/Course/1stFall/Biostat625%20Big%20Data/625%20Final%20project/Clustering_Visualization.png){width=40%}
+![Cluster for Jan.2020](E:/UMich/Course/1stFall/Biostat625%20Big%20Data/625%20Final%20project/Clustering_Visualization.png){width=40%}
 
 The sample output was presented in the GitHub Repository, and here is an example for clustering of Jan.2020.
 
