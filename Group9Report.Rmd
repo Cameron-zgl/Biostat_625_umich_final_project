@@ -150,7 +150,7 @@ The loss curves for the training and validation phases of the LSTM model are sho
 
 ![Loss Curve for Training and Validation Phases](E:/UMich/Course/1stFall/Biostat625%20Big%20Data/625%20Final%20project/fig3_Loss_curve.png){width=70%}
 
-# Conclusion
+# Conclusion and Contributions
 
 This project successfully achieved its two objectives:
 
@@ -161,19 +161,22 @@ This project successfully achieved its two objectives:
 ## Computational Challenges
 
 - High-dimensional text data required pre-processing and dimensionality reduction.
-
 - Implementing BERT-based embedding for improved prediction accuracy required GPU computation.
 
 ##  Future Work
 
 - Expand the dataset to include posts from broader online forums.
-
 - Use fine-tuned BERT models for sentiment and depression prediction to further improve accuracy.
 
+## Contributions
+
+Method: Guli Zhu, Joey Qiu, Kaixiang Jiao, Yilin Yan; Coding: Guli Zhu, Joey Qiu; Data: Guli Zhu, Joey Qiu, Kaixiang Jiao, Yilin Yan; Report: Guli Zhu, Joey Qiu, Kaixiang Jiao, Yilin Yan
+ 
 
 # References
 
-1. Chancellor, S., Birnbaum, M. L., Caine, E. D., Silenzio, V. M., & De Choudhury, M. (2019). A taxonomy of ethical tensions in inferring mental health states from social media. In Proceedings of the Conference on Fairness, Accountability, and Transparency, pp. 79–88.Available at: https://dl.acm.org/doi/abs/10.1145/3287560.3287587?casa_token=WQYwHzKDvukAAAAA:bf1RXdTX1ePljY5nDe7LiA5WRQftghq-buNbskmwbP_-6qu3lOUudWQPjSfp5GhCKO6BROjUI7FwOA (Accessed: 22 November 2024).
+1. Chancellor, S., Birnbaum, M. L., Caine, E. D., Silenzio, V. M., & De Choudhury, M. (2019). A taxonomy of ethical tensions in inferring mental health states from social media. In Proceedings of the Conference on Fairness, Accountability, and Transparency, pp. 79–88.
+
 
 
 
