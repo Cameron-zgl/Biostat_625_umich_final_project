@@ -1,4 +1,4 @@
-# README: Mental Health Topic Extraction and Depression Prediction
+# Mental Health Topic Extraction and Depression Prediction
 
 This project consists of a two-step framework for analyzing mental health-related posts and predicting depression risk using machine learning and deep learning models. The dataset used is sourced from Zenodo and includes Reddit posts from various mental health subreddits.
 
